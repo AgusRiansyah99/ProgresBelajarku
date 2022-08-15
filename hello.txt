@@ -2,5 +2,6 @@ hello world
 
 Mencoba menambahkan pembaruan deskripsi
 
-belajar mempraktikan squashing merge
-1
+1 belajar mempraktikan squashing merge
+2
+3
